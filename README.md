@@ -27,6 +27,3 @@ A machine in <i>'South-109'</i> has an issue. I need to determine which employee
 
 <img src="https://github.com/Bridgetanntighe/FilterSQLTheory/assets/134883216/ea738f49-3452-4ed2-9a53-f0a28aebf0b4" height="50%" width="50%" alt="Filter SQL Theory"/>
 
-
-<h2>Conclusion </h2>
-This demonstates practical experience in using SQL to apply the <i>WHERE</i> clause to filter what a SQL query returns and use the <i>LIKE</i> operator to filter for patterns.
